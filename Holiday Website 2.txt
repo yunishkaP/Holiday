@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+ 
+
+<html>
+
+ 
+
+ <head>
+
+ 
+
+ <title>Thailand</title>
+
+ 
+
+</head>
+
+ 
+
+ 
+
+ 
+
+<body>
+
+ 
+
+<h1>~Thailand~</h1> 
+
+ 
+
+<p>welcome to thailand!!!</p>
+
+ 
+
+<a href="https://www.w3schools.com/html/html_links.asp"> Visit W3Schools.com! </a>
+  
+ <img src="images.png">
+
+ 
+
+</body>
+
+ 
+
+</html>
